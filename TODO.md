@@ -6,6 +6,7 @@
 + review [programminghistorian.org](http://programminghistorian.org)'s website guides
 + start building out outline
 + Rewrite into a proper set of lessons
++ Figure out the correct LICENSE (talk to Gail) for the Library Carpentry/Author Carpentry workshops
 
 # Someday, maybe
 
