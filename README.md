@@ -5,7 +5,8 @@
 
 One of the benefits of the Bash shell (and other Unix shells) is it provides a great deal
 of capability right out of the box. When you combine that with other Unix tools you have
-a powerful environment for text processing and manipulation.
+a powerful environment for text processing and manipulation. The web provides a massive
+ammount on content. In this lesson will be combining the two.
 
 ## What is covered
 
