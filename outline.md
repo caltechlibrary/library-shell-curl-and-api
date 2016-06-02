@@ -21,14 +21,14 @@
             + seeing if a directory exists
             + combining conditions
         + switch statements when you and to make lots of choices
-    + loops
+    + repetition with loops
         + while
             + looking for something
             + looking until something
         + for/in
             + counting
             + iterating over a list
-    + organizing that you've written
+    + organizing what you created
         + functions
         + scripts
 + curl, how to get things from the web
@@ -39,7 +39,10 @@
         + put
         + delete
     + leveraging Bash
+        + logging into a web service
         + checking the exit codes
+        + authorization as a function
+        + getting results
 + Processing data
     + Getting the raw data ready
         + best practice, keep your raw data, create derivatives
