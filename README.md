@@ -40,5 +40,7 @@ Additionally we will be using two new programs you may not be familiar with
 
 ## References
 
+- Billy Wideling (probable author circa 2006 or earlier, others have modified since), "Alien's Bash Tutorial"
+[http://www.subsignal.org/doc/AliensBashTutorial.html](http://www.subsignal.org/doc/AliensBashTutorial.html)
 - Brad Yoes, "Introduction to text manipulation on Unix-based systems" (March 2012)
 [https://www.ibm.com/developerworks/aix/library/au-unixtext/](https://www.ibm.com/developerworks/aix/library/au-unixtext/)
