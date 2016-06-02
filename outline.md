@@ -7,15 +7,18 @@
             + $USER
             + $HOME
             + $PATH
-       + Set, reset, unset and accessing the variable
+        + set, unset and accessing the variable
             + variables are remember as a sequence of characters
             + also called a "string"
             + you can see the contents of a variable with `echo`
             + you can list all the variables available with `env`
-            + context - local, global, export
-       + Some clever extras, working with variables as "strings"
+            + context
+                + local vs. global
+                + export
+        + clever extras, working with variables as "strings"
             + pulling out parts of a string
             + simple find and replace
+            + composing longer strings
     + making choices
         + if, then, else
             + seeing if two variables are the same
