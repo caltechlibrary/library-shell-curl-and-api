@@ -37,3 +37,8 @@
         + applying loops to process parts or all of a file(s)
     + Approaches to cleaning
     + Tabulating results
++ Where to go from here
+    + Bash related
+    + curl related
+    + More on Unix as a text processing platform
+   
