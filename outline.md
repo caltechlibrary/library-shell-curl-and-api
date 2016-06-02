@@ -13,10 +13,10 @@
             + seeing if two variables are the same
             + seeing if a file exists
             + seeing if a directory exists
-            + combinging conditions
+            + combining conditions
         + switch statements when you and to make lots of choices
     + loops
-        + while 
+        + while
         + for/in
 + curl, how to get things from the web
     + http basics
@@ -27,9 +27,13 @@
         + delete
     + leveraging Bash
         + checking the exit codes
-+ processing data
-    + finding what you've downloaded
-    + applying loops to process parts or all of a file(s)
-    + best practice, keep your raw data, create deritivatives
-
-
++ Processing data
+    + Getting the raw data ready
+        + best practice, keep your raw data, create derivatives
+        + `find`-ing what you've downloaded
+            + find by type
+            + find by name
+            + find combined with grep to get files by extension
+        + applying loops to process parts or all of a file(s)
+    + Approaches to cleaning
+    + Tabulating results
