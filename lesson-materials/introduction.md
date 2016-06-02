@@ -27,17 +27,19 @@ This tutorial is focused on building on that basic knowledge and will cover--
 + Making decisions
 + Repeating things
 + Working with plan text formats
-+ Introducing working with XML data
-+ Introducing working with JSON data
++ Working with XML data
++ Working with YAML
++ Working with JSON data
 
 We will be cover in modest detail some of the following utilities--
 
 + find - a command for locating and listing files and directories
 + curl - for retrieving and interacting with content from the web
 + sed - a automated editor (stream editor) for manipulating text
+    + ??awk for more nuanced filtering and reporting
 + cut - a tool for working with column oriented data
-+ ??paste - a tool for putting text side by side
-+ ??join - a tool for combining things
+    + ??paste - a tool for putting text side by side
+    + ??join - a tool for combining things
 + jq - a tool for working with JSON data
 
 
@@ -52,3 +54,5 @@ We will be cover in modest detail some of the following utilities--
 
 - Brad Yoes, "Introduction to text manipulation on Unix-based systems" (March 2012)
 [https://www.ibm.com/developerworks/aix/library/au-unixtext/](https://www.ibm.com/developerworks/aix/library/au-unixtext/)
+- Mendel Cooper, "Advanced Bash-Scripting Guide" (March 2014)
+[http://www.tldp.org/LDP/abs/html/index.html](http://www.tldp.org/LDP/abs/html/index.html)

@@ -1,4 +1,6 @@
 
+# Bash, curl and web API
+
 + Bash
     + variables and the shell's short term memory
         + common variables you may already have
@@ -9,7 +11,7 @@
             + variables are remember as a sequence of characters
             + also called a "string"
             + you can see the contents of a variable with `echo`
-            + you can list all the variables available wtih `env`
+            + you can list all the variables available with `env`
             + context - local, global, export
        + Some clever extras, working with variables as "strings"
             + pulling out parts of a string
@@ -31,6 +33,8 @@
     + organizing what you created
         + functions
         + scripts
+            + The Sha-Bang
+            + Source scripts versus executing them
 + curl, how to get things from the web
     + http basics
         + get
@@ -45,6 +49,7 @@
         + Metadata available in headers
         + Representations
             + text, YAML, XML and JSON
+                + JSON and `jq`
     + curl basics
         + GET-ting a resource
         + Inspecting and managing HTTP Headers information
@@ -66,14 +71,15 @@
             + find by name
             + find combined with grep to get files by extension
         + Aggregate by applying loops, choices and pipelines
-    + Approaches to cleaning
-        + `grep`, `sed`, `sort` and other filters
-            + Tabulating results
+    + Approaches to cleaning and reporting
+        + filters and aggregation
+            + `grep`
+            + `sed` (and maybe `awk`)
+            + `sort`
+            + `cut`, `paste` and `join`
         + Open Refine
-+ Where to go from here (just brief mentions)
-    + Create your own tools when the shell isn't enough
-        + Python
-        + R
-        + JavaScript
-        + Go
-    + Unix as a text processing platform
++ Where to go from here, building your own tools (closing remarks)
+    + Python
+    + R
+    + JavaScript
+    + Go
