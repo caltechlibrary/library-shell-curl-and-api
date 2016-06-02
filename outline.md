@@ -64,25 +64,24 @@
         + checking the exit codes
         + authorization as a function
         + getting results
-+ Processing data
++ Processing data (putting everything together)
     + Getting some data
-    + Reviewing and exploring raw data
-    + Getting the raw data ready
+    + Exploring raw data
+    + Approaches to cleaning and reporting
         + best practice, keep your raw data, create derivatives
         + `find`-ing what you've downloaded
             + find by type
             + find by name
             + find combined with grep to get files by extension
         + Aggregate by applying loops, choices and pipelines
-    + Approaches to cleaning and reporting
         + filters and aggregation
             + `grep`
             + `sed` (and maybe `awk`)
             + `sort`
             + `cut`, `paste` and `join`
         + Open Refine
-+ Where to go from here, building your own tools (closing remarks)
-    + Python
-    + R
-    + JavaScript
-    + Go
+    + Where to go from here, building your own tools (closing remarks)
+        + Python
+        + R
+        + JavaScript
+        + Go
