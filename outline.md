@@ -2,8 +2,9 @@
 + Bash
     + variables and the shell's short term memory
         + common variables you may already have
-            + $HOME
             + $USER
+            + $HOME
+            + $PATH
        + Creating, setting, and unsetting
        + Some clever extras, working with variables as "strings"
             + pulling out parts of a string
@@ -17,7 +18,14 @@
         + switch statements when you and to make lots of choices
     + loops
         + while
+            + looking for something
+            + looking until something
         + for/in
+            + counting
+            + iterating over a list
+    + organizing that you've written
+        + functions
+        + scripts
 + curl, how to get things from the web
     + http basics
         + get
@@ -38,7 +46,10 @@
     + Approaches to cleaning
     + Tabulating results
 + Where to go from here
-    + Bash related
-    + curl related
-    + More on Unix as a text processing platform
-   
+    + Open Refine
+    + Create your own tools when the shell isn't enough
+        + Python
+        + R
+        + JavaScript
+        + Go
+    + Unix as a text processing platform
