@@ -5,7 +5,12 @@
             + $USER
             + $HOME
             + $PATH
-       + Creating, setting, and unsetting
+       + Set, reset, unset and accessing the variable
+            + variables are remember as a sequence of characters
+            + also called a "string"
+            + you can see the contents of a variable with `echo`
+            + you can list all the variables available wtih `env`
+            + context - local, global, export
        + Some clever extras, working with variables as "strings"
             + pulling out parts of a string
             + simple find and replace
@@ -42,11 +47,11 @@
             + find by type
             + find by name
             + find combined with grep to get files by extension
-        + applying loops to process parts or all of a file(s)
+        + Aggregate by applying loops, choices and pipelines
     + Approaches to cleaning
-    + Tabulating results
-+ Where to go from here
-    + Open Refine
+        + Tabulating results
+        + Open Refine
++ Where to go from here (just brief mentions)
     + Create your own tools when the shell isn't enough
         + Python
         + R

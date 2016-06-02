@@ -14,6 +14,7 @@ In this tutorial we assume you have some knowledge of Unix basics
 + How to start the Bash shell (e.g. 'Terminal' on Mac OS X)
 + How to open an edit a file
 + How to list, view, copy, move and delete files and directories
++ How to page through a view with `more` or `less`
 
 This tutorial is focused on building on that basic knowledge and will cover--
 
