@@ -1,0 +1,4 @@
+# Documents to ignore
+*~
+.DS_Store
+.swp
