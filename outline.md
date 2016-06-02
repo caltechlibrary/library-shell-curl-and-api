@@ -34,16 +34,31 @@
 + curl, how to get things from the web
     + http basics
         + get
+            + headers
+            + document bodies
         + post
             + encoding
         + put
         + delete
+    + The rest of REST
+        + Get, post, put, and delete are verbs
+        + Metadata available in headers
+        + Representations
+            + text, YAML, XML and JSON
+    + curl basics
+        + GET-ting a resource
+        + Inspecting and managing HTTP Headers information
+        + POST-ing content
+            + encoding options
+            + header usage
     + leveraging Bash
         + logging into a web service
         + checking the exit codes
         + authorization as a function
         + getting results
 + Processing data
+    + Getting some data
+    + Reviewing and exploring raw data
     + Getting the raw data ready
         + best practice, keep your raw data, create derivatives
         + `find`-ing what you've downloaded
@@ -52,7 +67,8 @@
             + find combined with grep to get files by extension
         + Aggregate by applying loops, choices and pipelines
     + Approaches to cleaning
-        + Tabulating results
+        + `grep`, `sed`, `sort` and other filters
+            + Tabulating results
         + Open Refine
 + Where to go from here (just brief mentions)
     + Create your own tools when the shell isn't enough
