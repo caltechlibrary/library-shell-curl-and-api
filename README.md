@@ -52,3 +52,5 @@ Additionally we will be using two new programs you may not be familiar with
 [https://williamjturkel.net/2013/06/20/pattern-matching-and-permuted-term-indexing-with-command-line-tools-in-linux/](https://williamjturkel.net/2013/06/20/pattern-matching-and-permuted-term-indexing-with-command-line-tools-in-linux/)
 - Brad Yoes, "Introduction to text manipulation on Unix-based systems" (March 2012)
 [https://www.ibm.com/developerworks/aix/library/au-unixtext/](https://www.ibm.com/developerworks/aix/library/au-unixtext/)
+- Geert Jansen, "Thoughts on RESTful API Design" (November 2012)
+[https://restful-api-design.readthedocs.io/en/latest/](https://restful-api-design.readthedocs.io/en/latest/)
