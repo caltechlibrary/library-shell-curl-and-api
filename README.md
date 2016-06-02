@@ -10,7 +10,7 @@ ammount on content. In this lesson will be combining the two.
 
 ## What is covered
 
-In this tutorial we assume you have some knowledge of Unix basics
+In this tutorial we assume you have some knowledge of [Unix/Bash basics](http://programminghistorian.org/lessons/intro-to-bash)
 
 + How to start the Bash shell (e.g. 'Terminal' on Mac OS X)
 + How to list, view, copy, move and delete files and directories
@@ -40,7 +40,15 @@ Additionally we will be using two new programs you may not be familiar with
 
 ## References
 
-- Billy Wideling (probable author circa 2006 or earlier, others have modified since), "Alien's Bash Tutorial"
+- James Baker, "Preserving Your Research Data", (April 2014),
+[http://programminghistorian.org/lessons/preserving-your-research-data](http://programminghistorian.org/lessons/preserving-your-research-data)
+- Ian Milligan and James Baker, "Introduction to the Bash Command Line", (September 2014)
+[http://programminghistorian.org/lessons/intro-to-bash](http://programminghistorian.org/lessons/intro-to-bash)
+- Billy Wideling <alien@koping.net>, "Alien's Bash Tutorial", (in circulation before 2004, this version apprears to be from circa 2006)
 [http://www.subsignal.org/doc/AliensBashTutorial.html](http://www.subsignal.org/doc/AliensBashTutorial.html)
+- William J Turkel, "Basic Text Analysis with Command Line Tools in Linux", (June 2013),
+[https://williamjturkel.net/2013/06/15/basic-text-analysis-with-command-line-tools-in-linux/](https://williamjturkel.net/2013/06/15/basic-text-analysis-with-command-line-tools-in-linux/)
+- William J Turkel, "Pattern Matching and Permuted Term Indexing with Command Line Tools in Linux", (June 2013)
+[https://williamjturkel.net/2013/06/20/pattern-matching-and-permuted-term-indexing-with-command-line-tools-in-linux/](https://williamjturkel.net/2013/06/20/pattern-matching-and-permuted-term-indexing-with-command-line-tools-in-linux/)
 - Brad Yoes, "Introduction to text manipulation on Unix-based systems" (March 2012)
 [https://www.ibm.com/developerworks/aix/library/au-unixtext/](https://www.ibm.com/developerworks/aix/library/au-unixtext/)
