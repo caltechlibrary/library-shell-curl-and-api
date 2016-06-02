@@ -28,8 +28,9 @@ We'll be expanding on that basic knowledge with a discussion of
 
 Additionally we will be using two new programs you may not be familiar with
 
-+ curl - for retrieving and interacting with content from the web
 + sed - a automated editor (stream editor) for manipulating text
++ curl - for retrieving and interacting with content from the web
++ find - walking the content you've fetched from the web
 + cut - a tool for working with column oriented data
 + paste - a tool for putting text side by side
 + join - a tool for combining things
